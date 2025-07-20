@@ -1,5 +1,5 @@
 # Парсинг сайта www.zoon.ru
-![alt-текст](notes/banner.png "Banner")
+![alt-текст](https://github.com/HeyArtem/parsing_zoon/blob/main/notes/Banner.png)
 
 Парсер собирает данные с сайта [Zoon.ru](https://zoon.ru ) — медицинские учреждения для детей в Санкт-Петербурге.
 
